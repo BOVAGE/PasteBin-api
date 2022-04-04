@@ -1,2 +1,2 @@
-# Social-Media
-Social media website using Django
+# Pastebin-Api
+A simple pastebin code highlighting Web API.
